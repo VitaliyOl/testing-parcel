@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://VitaliyOl.github.io/testing-parcel.git",
   "scripts": {
-    "start": "parcel src/*.html",
+    "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /testing-parcel.git/"
   },
   "repository": {

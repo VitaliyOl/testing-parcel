@@ -1,2 +1,9 @@
-@import './common';
+@import './base/font';
+@import './base/reset';
+@import './base/common';
 @import './example';
+
+// components
+
+@import './component/container';
+@import './component/header';
